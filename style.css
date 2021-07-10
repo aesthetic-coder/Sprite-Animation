@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+body {
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+button {
+    cursor: pointer;
+  width: 80px;
+  height: 30px;
+  background-color: #9fd9b7;
+  border: 1px solid black;
+  font-family: 'Comfortaa', cursive;
+}
+
+button:hover {
+  background-color: #9bbeaa;
+  font-family: 'Comfortaa', cursive;
+}
